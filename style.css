@@ -156,7 +156,9 @@ body{
     padding: 10px;
 }
 
-.footer__links a{sdadwdawdasasda
+.footer__links a{
+    text-decoration: none;
+    color: purple;
 }
 
 .footer__links a:not(:first-child){
